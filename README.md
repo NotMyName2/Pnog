@@ -8,6 +8,4 @@ Uses SPI.
 
 Display class and driver functions are stolen from https://navody.arduino-shop.cz/navody-k-produktum/lcd-displej-nokia-5110.html
 
-
-
-Watch a pro gamer fail at this game: 
+Watch a pro gamer fail at this game: https://youtu.be/f8d979qsKo8
